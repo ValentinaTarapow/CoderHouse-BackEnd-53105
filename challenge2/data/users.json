@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Valentina Tarapow",
+    "photo": "photoRoute1.jpg",
+    "email": "tarapow.v@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Juan Node",
+    "photo": "photoRoute2.jpg",
+    "email": "juan@node.com"
+  }
+]
